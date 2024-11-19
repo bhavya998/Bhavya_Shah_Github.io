@@ -1,0 +1,11 @@
+title: Bhavya Shah
+logo: "/assets/photo.jpg" # Path to your photo
+description: > # Adjusted to fix HTML and line breaks
+  Data Analytics and Engineering
+  <br><br>
+  <a href="mailto:shahbhavya2021@gmail.com">Email</a>
+  <br>
+  <a href="https://linkedin.com/in/bhavya-ashvin-shah/">LinkedIn</a>
+  <br>
+  <a href="https://github.com/bhavya998">Github</a>
+theme: jekyll-theme-minimal
