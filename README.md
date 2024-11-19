@@ -19,14 +19,6 @@ A skilled professional with **3+** years of experience in **Data Analytics, Data
 
 ---
 
-## Certifications
-- [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/0e706947-32bf-4d88-8428-7a3ef9324a3b/public_url)
-- AWS Certified Data Engineer – Associate
-- [Machine Learning for Business Professionals](https://www.coursera.org/verify/DT9PEYBPVPX9)
-- [Programming for Everybody](https://www.coursera.org/verify/DPN6ADSC8UJH)
-
----
-
 ## Work Experience
 
 **Data Engineer | MEBEDO GmbH, Germany (_July 2022 – June 2024_)**
@@ -66,18 +58,27 @@ A skilled professional with **3+** years of experience in **Data Analytics, Data
 
 ## Technical Skills:
 <p align="justify">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="auto" height="40"/>
-  <img src='https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png' alt="pyspark" width="80" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="auto" height="30"/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height='40' width='auto' alt="sql">
-  <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55" height="40" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="55" height="40" alt="SQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="55" height=40" alt="AWS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="55" height="40" alt="Azure">
+  <img src="https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png" width="55" height="40" alt="Apache Spark">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="55" height="40" alt="Databricks">
 </p>
+
 
 **Languages & Tools:** Python, SQL, NoSQL, AWS (S3, Lambda, Glue, Athena, RDS, Redshift, EC2, EMR, Quicksight, SageMaker, Kenisis, CloudTrail, CloudWatch), Ms Azure, Power BI, Tableau, Apache Spark, Kafka, Airflow, Databricks, Docker, Terraform, Ms SQL Server, MySQL, MongoDB, GitHub, GitLab, CI/CD, Jira, Confluence, PyCharm, Linux.
 
 ---
 
+
+## Certifications
+- [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/0e706947-32bf-4d88-8428-7a3ef9324a3b/public_url)
+- AWS Certified Data Engineer – Associate
+- [Machine Learning for Business Professionals](https://www.coursera.org/verify/DT9PEYBPVPX9)
+- [Programming for Everybody](https://www.coursera.org/verify/DPN6ADSC8UJH)
+
+---
 ## Publications
 - [Chrome Extension for Detecting Phishing Websites - Mar 23, 2020. (IRJET)](https://www.irjet.net/archives/V7/i3/IRJET-V7I3590.pdf)
 
