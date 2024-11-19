@@ -58,12 +58,12 @@ A skilled professional with **3+** years of experience in **Data Analytics, Data
 
 ## Technical Skills:
 <p align="justify">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="55" height="40" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="55" height="40" alt="SQL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="55" height=40" alt="AWS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="55" height="40" alt="Azure">
-  <img src="https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png" width="55" height="40" alt="Apache Spark">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="55" height="40" alt="Databricks">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' height='40' width='auto' alt="sql">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="auto" height="30"/>
+  <img src='https://miro.medium.com/max/3128/1*sQGVLk43kXJTEw1mtJRoDw.png' alt="pyspark" width="80" height="40">
+  <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="excel" width="40" height="40"/>
 </p>
 
 
