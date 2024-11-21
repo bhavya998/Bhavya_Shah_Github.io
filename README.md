@@ -1,13 +1,17 @@
+## About Me
 
-## Portfolio
+A highly skilled **Data Professional** with over **3 years** of experience in **Data Analytics, Data Engineering, and Data Science**, complemented by a Master's degree in Web and Data Science. 
 
-#### Data Engineer | M.Sc. Web and Data Science, University of Koblenz, Germany.
+### Expertise Includes:
+- Designing **data infrastructures** and optimizing **data pipelines**.
+- Implementing **Machine Learning models**, **Natural Language Processing**, and **Generative AI solutions**.
+- Leveraging cloud platforms such as **Amazon Web Services (AWS)** and **Microsoft Azure** for deploying enterprise level solutions.
 
-A skilled professional with **3+** years of experience in **Data Analytics, Data Engineering, and Data Science**, and a completed Master's degree in Web and Data Science. Proficient in building and optimizing data pipelines, implementing machine learning models, and leveraging advanced cloud platforms to provide actionable insights and improve decision-making processes. Dedicated to solving real-world challenges with data-driven solutions.
+Passionate about delivering actionable insights and driving informed decision-making through innovative, **data-driven solutions** to tackle real-world challenges.
 
 ---
 
-## Education
+## Education  
 
 
 - **M.Sc. Web and Data Science | University of Koblenz, Germany (_October 2021 – September 2024_)**  
@@ -67,7 +71,11 @@ A skilled professional with **3+** years of experience in **Data Analytics, Data
 </p>
 
 
-**Languages & Tools:** Python, SQL, NoSQL, AWS (S3, Lambda, Glue, Athena, RDS, Redshift, EC2, EMR, Quicksight, SageMaker, Kenisis, CloudTrail, CloudWatch), Ms Azure, Power BI, Tableau, Apache Spark, Kafka, Airflow, Databricks, Docker, Terraform, Ms SQL Server, MySQL, MongoDB, GitHub, GitLab, CI/CD, Jira, Confluence, PyCharm, Linux.
+**Languages & Tools:** Python, SQL, NoSQL, AWS (S3, Lambda, Glue, Athena, RDS,
+Redshift, EC2, EMR, Quicksight, SageMaker, Kenisis, CloudTrail, CloudWatch), Ms Azure,
+Power BI, Tableau, Apache Spark, Kafka, Airflow, Databricks, Docker, Terraform,
+Ms SQL Server, MySQL, MongoDB, GitHub, GitLab, CI/CD,
+Jira, Confluence, PyCharm, Linux. 
 
 ---
 
