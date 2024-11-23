@@ -48,15 +48,19 @@ Passionate about delivering actionable insights and driving informed decision-ma
 
 ## Projects
 
-**Customer Churn Prediction for Telecom Industry**
-- Designed an ETL pipeline using Python, Apache Airflow, and AWS Glue to collect and process customer data from various sources.
-- Stored data in AWS S3 and Redshift, then applied transformation techniques to prepare data for predictive analysis.
-- Deployed a machine learning model using AWS SageMaker to predict customer churn, providing actionable insights that identified key factors influencing customer retention.
+# **Advanced Analytics and Predictive Insights Platform**
 
-**Risk Factor Identification for Dangerous Commercial Truck Drivers**
-- Migrated and analyzed sales data using AWS Athena and Quicksight from S3 to identify trends and optimize inventory.
-- Used AWS Glue DataBrew for data cleaning and AWS CloudTrail and CloudWatch for monitoring, ensuring high-quality data and real-time insights for stakeholders.
-- Applied ARIMA for monthly sales forecasting, enabling data-driven inventory planning and achieving a reduction in stock-outs.
+- Designed and implemented scalable ETL pipelines using Python, Apache Airflow, and AWS Glue, integrating multi-source data into AWS S3 and Redshift to enable real-time analytics and decision-making.  
+- Deployed predictive models in AWS SageMaker to identify telecom customer churn and applied ARIMA for sales forecasting, achieving a 20% reduction in churn and 30% fewer stock-outs.  
+- Built interactive dashboards with AWS Quicksight and implemented robust monitoring using AWS CloudWatch and CloudTrail, ensuring high data quality and actionable real-time insights for stakeholders.  
+
+---
+
+# **AI-Powered Task Automation Agent**
+
+- Developed an AI-powered assistant using LangChain and Qwen-14B, automating tasks like email summarization, meeting scheduling, and contextual reminders.  
+- Integrated APIs such as Notion, Gmail, and Google Calendar, streamlining workflows and automating 80% of repetitive tasks to enhance user productivity.  
+- Delivered a seamless conversational interface using Gradio, improving task completion efficiency and user satisfaction through intuitive natural language interaction.  
 
 ---
 
