@@ -48,7 +48,7 @@ Passionate about delivering actionable insights and driving informed decision-ma
 
 ## Projects
 
-# **Advanced Analytics and Predictive Insights Platform**
+**Advanced Analytics and Predictive Insights Platform**
 
 - Designed and implemented scalable ETL pipelines using Python, Apache Airflow, and AWS Glue, integrating multi-source data into AWS S3 and Redshift to enable real-time analytics and decision-making.  
 - Deployed predictive models in AWS SageMaker to identify telecom customer churn and applied ARIMA for sales forecasting, achieving a 20% reduction in churn and 30% fewer stock-outs.  
@@ -56,7 +56,7 @@ Passionate about delivering actionable insights and driving informed decision-ma
 
 ---
 
-# **AI-Powered Task Automation Agent**
+**AI-Powered Task Automation Agent**
 
 - Developed an AI-powered assistant using LangChain and Qwen-14B, automating tasks like email summarization, meeting scheduling, and contextual reminders.  
 - Integrated APIs such as Notion, Gmail, and Google Calendar, streamlining workflows and automating 80% of repetitive tasks to enhance user productivity.  
