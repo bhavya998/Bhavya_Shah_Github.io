@@ -1,6 +1,6 @@
 ## About Me
 
-A highly skilled **Data Professional** with over **3 years** of experience in **Data Analytics, Data Engineering, and Data Science**, complemented by a Master's degree in Web and Data Science. 
+A highly skilled **Data Professional** with over **4 years** of experience in **Data Analytics, Data Engineering, and Data Science**, complemented by a Master's degree in Web and Data Science. 
 
 ### Expertise Includes:
 - Designing **data infrastructures** and optimizing **data pipelines**.
@@ -39,7 +39,7 @@ Passionate about delivering actionable insights and driving informed decision-ma
 
 ---
 
-**Data Analyst | dB SYS Online, India (_October 2020 – September 2021_)**
+**Data Analyst | dB SYS Online, India (_October 2019 – September 2021_)**
 - Processed and managed datasets of 100K+ records weekly using Python and SQL, improving data retrieval efficiency and accuracy of sales trend forecasts.
 - Built interactive dashboards with Power BI, enabling stakeholders to make data-driven decisions that boosted business outcomes.
 - Resolved data quality issues, ensuring accuracy and reliability, enhancing data consistency for key reports.
@@ -86,7 +86,7 @@ Jira, Confluence, PyCharm, Linux.
 
 ## Certifications
 - [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/0e706947-32bf-4d88-8428-7a3ef9324a3b/public_url)
-- AWS Certified Data Engineer – Associate
+- [AWS Certified Data Engineer – Associate](https://www.credly.com/badges/2fb5ed2b-a2c2-47b6-9c34-538bb1e67233/public_url)
 - [Machine Learning for Business Professionals](https://www.coursera.org/verify/DT9PEYBPVPX9)
 - [Programming for Everybody](https://www.coursera.org/verify/DPN6ADSC8UJH)
 
